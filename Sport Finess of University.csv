@@ -1,0 +1,28 @@
+participants,DegreeLike,Position,ExDays(per week),WatchSport,AvgHr(per day),LocationAct,Type,LocationSp,Reason,Height,Hr(per week)
+Res1,3,Undergraduate,N,Yes,N,N,/,N,N,184,2
+Res2,2,Undergraduate,1-2,Yes,<1,off campus,yoga,at home,health/fitness,166,10
+Res3,3,Undergraduate,1-2,No,<1,off campus,dance,sports centre,health/fitness,168,6
+Res4,2,Undergraduate,N,No,N,N,Badminton and dancing,N,N,160,12
+Res5,5,Undergraduate,5-6,Yes,1-2,off campus,soccer,outdoors(ground),social,161,5
+Res6,3,Undergraduate,N,No,N,N,None,N,N,183,15
+Res7,4,Undergraduate,5-6,No,1-2,off campus,cardio,sports centre,hobby,173,4
+Res8,2,Undergraduate,N,Yes,N,N,"Badminton, Basketball, Yoga",at home,hobby,162,1
+Res9,3,Undergraduate,1-2,Yes,<1,off campus,yoga,at home,health/fitness,170,6
+Res10,5,Undergraduate,1-2,Yes,1-2,off campus,/,outdoors(ground),hobby,153,8
+Res11,5,Undergraduate,3-4,Yes,1-2,on campus,gym,sports centre,health/fitness,163,6
+Res12,3,Undergraduate,1-2,No,<1,off campus,Tennis,outdoors(ground),health/fitness,152,5
+Res13,5,Undergraduate,3-4,Yes,1-2,off campus,"soccer, tennis",outdoors(ground),hobby,186,8
+Res14,5,Undergraduate,3-4,Yes,2-3,on campus,"Taekwondo, volleyball, gym",sports centre,hobby,190,0
+Res15,3,Postgraduate,1-2,Yes,1-2,on campus,"swimming, running",at home,health/fitness,170,3
+Res16,5,Undergraduate,1-2,Yes,1-2,on campus,"basketball, badminton, table tennis",outdoors(water),health/fitness,173,7
+Res17,5,Undergraduate,5-6,Yes,1-2,off campus,"tennis, soccer, running, badminton",outdoors(ground),entertainment,164,5
+Res18,4,Undergraduate,3-4,Yes,<1,on campus,basketball,sports centre,health/fitness,158,4
+Res19,3,Undergraduate,N,Yes,N,N,swimming,sports centre,entertainment,166,2
+Res20,3,Undergraduate,1-2,No,<1,off campus,running ,sports centre,health/fitness,170,0
+Res21,2,Undergraduate,1-2,No,<1,off campus,running,outdoors(ground),health/fitness,157,0
+Res22,4,Undergraduate,1-2,Yes,1-2,off campus,"Dance, Zumba, Volleyball",sports centre,health/fitness,163,2
+Res23,3,Undergraduate,1-2,No,<1,off campus,dance,others,hobby,159,3
+Res24,4,Undergraduate,3-4,No,3-5,off campus,"Rock climbing, caving",outdoors(ground),hobby,164,6
+Res25,4,Undergraduate,1-2,No,<1,off campus,Tennis,others,health/fitness,178,1
+Res26,3,Undergraduate,1-2,Yes,<1,on campus,swimming,sports centre,health/fitness,165,0
+Res27,5,Undergraduate,3-4,No,1-2,off campus,"Boxing, yoga, pilates and anaerobic exercise using equipment in gym",sports centre,personal achievement,158,2.5
